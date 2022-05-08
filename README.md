@@ -12,7 +12,8 @@ En este ejemplo, lo primero que hemos hecho ha sido descargarnos primero un imag
 
 * EJMPLO 2:
 
+Este ejemplo, lo primero que hemos hecho ha sido, crear un contenedor de centOS y despues listar el contendido de su carpeta con el comando ls
+(yo lo he hecho con Ubuntu porque me daba error si lo hacia con la iso de centOS)
 
-
-![CONTENEDOR Y SHELL]()
+![CONTENEDOR Y SHELL](https://github.com/AlejandroRocaMateu/Play_Docker/blob/fd6d014eb1a4afdcb877c1dd578edc00c483989f/2.PNG)
 
