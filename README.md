@@ -21,7 +21,7 @@ Este ejemplo, lo primero que hemos hecho ha sido, crear un contenedor de centOS 
 
 * EJEMPLO 4:
 
-En este ultimo ejemplo, lo que hemos hecho a sido crear lo primero un contenedor de debian 9 y mostrar su contenido de una carpeta.
+En este ultimo ejemplo, lo que hemos hecho a sido crear lo primero un contenedor de debian 9 y mostrar su contenido de una carpeta.Con el comando docker run -it -w /etc debian:9 ls, lo primero hemos creado un contenedor de debian, cuando creas el contenedor se ejecuta tambien el ls desde el directorio etc.
 
 ![CONTENEDOR Y Debian](https://github.com/AlejandroRocaMateu/Play_Docker/blob/3d19726f8adcbf324aee87f5cc5975c8f7997c3e/4.PNG)
 
