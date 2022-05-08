@@ -23,6 +23,6 @@ Este ejemplo, lo primero que hemos hecho ha sido, crear un contenedor de centOS 
 
 En este ultimo ejemplo, lo que hemos hecho a sido crear lo primero un contenedor de debian 9 y mostrar su contenido de una carpeta.
 
-![CONTENEDOR Y Debian]()
+![CONTENEDOR Y Debian](https://github.com/AlejandroRocaMateu/Play_Docker/blob/3d19726f8adcbf324aee87f5cc5975c8f7997c3e/4.PNG)
 
 
