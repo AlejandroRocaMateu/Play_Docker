@@ -15,5 +15,14 @@ En este ejemplo, lo primero que hemos hecho ha sido descargarnos primero un imag
 Este ejemplo, lo primero que hemos hecho ha sido, crear un contenedor de centOS y despues listar el contendido de su carpeta con el comando ls
 (yo lo he hecho con Ubuntu porque me daba error si lo hacia con la iso de centOS)
 
-![CONTENEDOR Y SHELL](https://github.com/AlejandroRocaMateu/Play_Docker/blob/fd6d014eb1a4afdcb877c1dd578edc00c483989f/2.PNG)
+![CONTENEDOR Y centOS](https://github.com/AlejandroRocaMateu/Play_Docker/blob/fd6d014eb1a4afdcb877c1dd578edc00c483989f/2.PNG)
+
+##
+
+* EJEMPLO 4:
+
+En este ultimo ejemplo, lo que hemos hecho a sido crear lo primero un contenedor de debian 9 y mostrar su contenido de una carpeta.
+
+![CONTENEDOR Y Debian]()
+
 
